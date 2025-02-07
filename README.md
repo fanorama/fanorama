@@ -9,9 +9,9 @@ I am a **Self Taught Developer** with 3+ years of experience in building scalabl
 - 📡 REST API Development and Integration
 
 ## 📌 Projects
-- **Booking Ticket Apps** 2020 - 2021
-- **Sales Order Processing System** 2022 - 2024
-- **IntraHub - Integrated Business Management System** 2024 - Current
+- **Booking Ticket Apps**
+- **Sales Order Processing System**
+- **IntraHub - Integrated Business Management System**
 
 
 ## 🛠 Tech Stack
