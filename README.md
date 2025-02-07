@@ -9,7 +9,7 @@ I am a **Self Taught Developer** with 3+ years of experience in building scalabl
 - 📡 REST API Development and Integration
 
 ## 📌 Projects
-- **Booking Ticket Apps** [![Dolan](https://dolanapp.com/)]
+- **Booking Ticket Apps** [DolanApp](https://dolanapp.com/)
 - **Sales Order Processing System**
 - **IntraHub - Integrated Business Management System**
 
