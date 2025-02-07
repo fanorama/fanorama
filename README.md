@@ -1,7 +1,7 @@
 # Hi there, I'm Rifano 👋
 
 ## 🚀 About Me
-I am a **Laravel Developer** with 3+ years of experience in building scalable and high-performance web applications. I specialize in **REST API development** and have expertise in **PHP, Python, and JavaScript**. Currently, I am expanding my skills in **React**, **Three.js**, and **3D Web Development**.
+I am a **Self Taught Developer** with 3+ years of experience in building scalable and high-performance web applications. I specialize in **REST API development** and have expertise in **PHP, Python, and JavaScript**. Currently, I am expanding my skills in **React**, **Three.js**, and **3D Web Development**.
 
 ## 💼 What I Do
 - 🔧 Backend Development with **Laravel** and **Django**
