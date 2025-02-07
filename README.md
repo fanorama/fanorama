@@ -9,10 +9,10 @@ I am a **Self Taught Developer** with 3+ years of experience in building scalabl
 - 📡 REST API Development and Integration
 
 ## 📌 Projects
-- **Inventory Management System**
-- **Sales CRM Apps**
-- **Job Card Form Application**
-- **Cyble Vision API Integrated App**
+- **Booking Ticket Apps** 2020 - 2021
+- **Sales Order Processing System** 2022 - 2024
+- **IntraHub - Integrated Business Management System** 2024 - Current
+
 
 ## 🛠 Tech Stack
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white)
